@@ -2,7 +2,7 @@ git commit -m "first codefile"
 git status
 git add code1
 git status
-ls
+
 cat README.md
 git push
 cd devops-git/
@@ -11,6 +11,6 @@ cd devops -git/
 git -v
 cd devops-git/
 git push
-ls
+
 history
 history|cut -c 8-
