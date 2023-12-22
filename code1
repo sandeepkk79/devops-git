@@ -1,3 +1,4 @@
+## this are all git commands:
 git commit -m "first codefile"
 git status
 git add code1
